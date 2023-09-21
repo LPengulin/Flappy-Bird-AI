@@ -32,3 +32,7 @@ The project aims to showcase how NEAT (NeuroEvolution of Augmenting Topologies) 
    pip install -r requirements.txt
    ```
 
+4. Run script
+    ```bash
+    python main.py
+    ```
