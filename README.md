@@ -17,7 +17,7 @@ The project aims to showcase how NEAT (NeuroEvolution of Augmenting Topologies) 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/flappy-bird-ai.git
+   git clone https://github.com/LPengulin/Flappy-Bird-AI.git
    ```
 
 2. Navigate into the project directory:
