@@ -2,7 +2,12 @@
 
 An AI-driven Flappy Bird game simulator using `pygame` for visualization and NEAT for training the bird to navigate through the pipes.
 
-![Flappy Bird AI Gameplay](images/gameplay.png) ![Menu](images/menu.png) ![Net](images/net.png)
+<p float="left">
+  <img src="images/gameplay.png" width="33%" />
+  <img src="images/menu.png" width="33%" /> 
+  <img src="images/net.png" width="33%" />
+</p>
+
 
 ## Description
 
