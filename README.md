@@ -24,7 +24,7 @@ The project aims to showcase how NEAT (NeuroEvolution of Augmenting Topologies) 
 
 2. Navigate into the project directory:
    ```bash
-   cd flappy-bird-ai
+   cd Flappy-Bird-AI
    ```
 
 3. Install the required packages:
